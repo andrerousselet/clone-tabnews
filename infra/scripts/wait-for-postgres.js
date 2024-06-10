@@ -8,7 +8,7 @@ function checkPostgres() {
       checkPostgres();
       return;
     }
-    console.log("\n\n✅ Postgres is ready and accepting connections!");
+    console.log("\n✅ Postgres is ready and accepting connections!\n");
   }
 }
 
